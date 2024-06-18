@@ -1,7 +1,7 @@
 # Advanced Analytics & Dashboard Design Project
 
 ## Tittle Annalysis On Gun-violence in US 01-2013_03-2018
-## <font color='blue'> Author Patrick Ogonyo</font>
+## <font color='blue'> Author Patrick Ogonyo Ochanyo</font>
 
 # <a id ='1'> 6.0 Motivation & Introduction </a>
 
